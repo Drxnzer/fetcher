@@ -1,0 +1,6 @@
+pycryptodome
+requests
+urllib3
+colorama
+console
+requests-toolbelt
